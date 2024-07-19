@@ -11,6 +11,7 @@ On the 1st of June, we had an orientation session to kickstart our internship at
 
 📝 Week-by-Week Progress
 
+
 Week 1: Learning Fundamentals
 5th June 2024
 
@@ -30,6 +31,7 @@ Developing a Website:
 Chose the Astra theme.
 Installed essential plugins for SEO and performance.
 Designed the homepage with Elementor.
+
 
 
 Week 2: Server Setup and Control
@@ -55,6 +57,8 @@ Registered a domain name for the website.
 Linked the domain with the server and configured DNS settings.
 
 
+
+
 Week 3: Security and Communication
 19th June 2024
 
@@ -73,12 +77,15 @@ Set up professional email addresses using the registered domain.
 Configured email clients and ensured deliverability.
 
 
+
+
 Week 4: Practical Application
 26th June 2024
 
 Online Session: Final Project and Deployment
 Focused on applying the learned skills to develop a fully functional website.
 Discussed best practices for deployment and maintenance.
+
 Tasks:
 Developing a Website:
 Finalized the website design and content.
