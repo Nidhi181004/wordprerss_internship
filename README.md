@@ -1,4 +1,4 @@
-# wordprerss_internship_22AIML014
+# wordpress_internship_22AIML014
 🌟 Summer Internship 2024 - DSU Infotech Project Showcase 🌟
 
 Welcome to my GitHub repository for the Summer Internship 2024 at DSU Infotech! This tasks showcases the work done during the internship, including practical insights and hands-on experience with web development using WordPress and other technologies.
